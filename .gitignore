@@ -1,0 +1,22 @@
+# === 操作系统 / 编辑器残留 ===
+.DS_Store
+._*
+__MACOSX/
+Thumbs.db
+Desktop.ini
+
+# === MATLAB 自动备份 ===
+*.asv
+*.m~
+
+# === Python 缓存 ===
+__pycache__/
+*.pyc
+*.pyo
+
+# === 压缩包（数据/归档另行管理，不入仓）===
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
